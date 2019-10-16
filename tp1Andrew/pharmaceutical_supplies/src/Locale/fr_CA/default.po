@@ -1,0 +1,967 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-10-15 20:37+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/FilesController.php:54
+#: Controller/FilesController.php:79
+msgid "The file has been saved."
+msgstr "Le fichier a été enregistré."
+
+#: Controller/FilesController.php:58
+#: Controller/FilesController.php:83
+msgid "The file could not be saved. Please, try again."
+msgstr "Le fichier n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/FilesController.php:101
+msgid "The file has been deleted."
+msgstr "Le fichier a été supprimé."
+
+#: Controller/FilesController.php:103
+msgid "The file could not be deleted. Please, try again."
+msgstr "Le fichier n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/I18nController.php:54
+#: Controller/I18nController.php:78
+msgid "The i18n has been saved."
+msgstr "La i18n a été sauvegardée."
+
+#: Controller/I18nController.php:58
+#: Controller/I18nController.php:82
+msgid "The i18n could not be saved. Please, try again."
+msgstr "La i18n n'a pas pu être sauvegardée. Veuillez réessayer."
+
+#: Controller/I18nController.php:99
+msgid "The i18n has been deleted."
+msgstr "L'i18n a été supprimé."
+
+#: Controller/I18nController.php:101
+msgid "The i18n could not be deleted. Please, try again."
+msgstr "L'i18n n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/ItemsController.php:57
+#: Controller/ItemsController.php:84
+msgid "The item has been saved."
+msgstr "L'élément a été enregistré."
+
+#: Controller/ItemsController.php:61
+#: Controller/ItemsController.php:88
+msgid "The item could not be saved. Please, try again."
+msgstr "L'élément n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/ItemsController.php:108
+msgid "The item has been deleted."
+msgstr "L'élément a été supprimé."
+
+#: Controller/ItemsController.php:110
+msgid "The item could not be deleted. Please, try again."
+msgstr "L'élément n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/ItemsFilesController.php:57
+#: Controller/ItemsFilesController.php:83
+msgid "The items file has been saved."
+msgstr "Le fichier d'articles a été enregistré."
+
+#: Controller/ItemsFilesController.php:61
+#: Controller/ItemsFilesController.php:87
+msgid "The items file could not be saved. Please, try again."
+msgstr "Le fichier d'éléments n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/ItemsFilesController.php:106
+msgid "The items file has been deleted."
+msgstr "Le fichier d'articles a été supprimé."
+
+#: Controller/ItemsFilesController.php:108
+msgid "The items file could not be deleted. Please, try again."
+msgstr "Le fichier d'articles n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/ItemsTagsController.php:57
+#: Controller/ItemsTagsController.php:83
+msgid "The items tag has been saved."
+msgstr "La balise des articles a été enregistrée."
+
+#: Controller/ItemsTagsController.php:61
+#: Controller/ItemsTagsController.php:87
+msgid "The items tag could not be saved. Please, try again."
+msgstr "La balise items n'a pas pu être enregistrée. Veuillez réessayer."
+
+#: Controller/ItemsTagsController.php:106
+msgid "The items tag has been deleted."
+msgstr "La balise items a été supprimée."
+
+#: Controller/ItemsTagsController.php:108
+msgid "The items tag could not be deleted. Please, try again."
+msgstr "La balise items n'a pas pu être supprimée. Veuillez réessayer."
+
+#: Controller/ObservationsController.php:57
+#: Controller/ObservationsController.php:82
+msgid "The observation has been saved."
+msgstr "L'observation a été enregistrée."
+
+#: Controller/ObservationsController.php:61
+#: Controller/ObservationsController.php:86
+msgid "The observation could not be saved. Please, try again."
+msgstr "L'observation n'a pas pu être sauvegardée. Veuillez réessayer."
+
+#: Controller/ObservationsController.php:104
+msgid "The observation has been deleted."
+msgstr "L'observation a été supprimée."
+
+#: Controller/ObservationsController.php:106
+msgid "The observation could not be deleted. Please, try again."
+msgstr "L'observation n'a pas pu être supprimée. Veuillez réessayer."
+
+#: Controller/RoleController.php:54
+#: Controller/RoleController.php:78
+msgid "The role has been saved."
+msgstr "Le rôle a été enregistré."
+
+#: Controller/RoleController.php:58
+#: Controller/RoleController.php:82
+msgid "The role could not be saved. Please, try again."
+msgstr "Le rôle n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/RoleController.php:99
+msgid "The role has been deleted."
+msgstr "Le rôle a été supprimé."
+
+#: Controller/RoleController.php:101
+msgid "The role could not be deleted. Please, try again."
+msgstr "Le rôle n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/TagsController.php:54
+#: Controller/TagsController.php:79
+msgid "The tag has been saved."
+msgstr "La balise a été enregistrée."
+
+#: Controller/TagsController.php:58
+#: Controller/TagsController.php:83
+msgid "The tag could not be saved. Please, try again."
+msgstr "La balise n'a pas pu être enregistrée. Veuillez réessayer."
+
+#: Controller/TagsController.php:101
+msgid "The tag has been deleted."
+msgstr "La balise a été supprimée."
+
+#: Controller/TagsController.php:103
+msgid "The tag could not be deleted. Please, try again."
+msgstr "La balise n'a pas pu être supprimée. Veuillez réessayer."
+
+#: Controller/UsersController.php:54
+#: Controller/UsersController.php:78
+msgid "The user has been saved."
+msgstr "L'utilisateur a été enregistré."
+
+#: Controller/UsersController.php:58
+#: Controller/UsersController.php:82
+msgid "The user could not be saved. Please, try again."
+msgstr "L'utilisateur n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/UsersController.php:99
+msgid "The user has been deleted."
+msgstr "L'utilisateur a été supprimé."
+
+#: Controller/UsersController.php:101
+msgid "The user could not be deleted. Please, try again."
+msgstr "L'utilisateur n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Template/Files/add.ctp:9
+#: Template/Files/edit.ctp:9
+#: Template/Files/index.ctp:9
+#: Template/Files/index.ctp:27
+#: Template/Files/view.ctp:9
+#: Template/Files/view.ctp:60
+#: Template/I18n/add.ctp:9
+#: Template/I18n/edit.ctp:9
+#: Template/I18n/index.ctp:9
+#: Template/I18n/index.ctp:23
+#: Template/I18n/view.ctp:9
+#: Template/Items/add.ctp:9
+#: Template/Items/edit.ctp:9
+#: Template/Items/index.ctp:9
+#: Template/Items/index.ctp:34
+#: Template/Items/view.ctp:9
+#: Template/Items/view.ctp:75
+#: Template/Items/view.ctp:104
+#: Template/Items/view.ctp:133
+#: Template/ItemsFiles/add.ctp:9
+#: Template/ItemsFiles/edit.ctp:9
+#: Template/ItemsFiles/index.ctp:9
+#: Template/ItemsFiles/index.ctp:25
+#: Template/ItemsFiles/view.ctp:9
+#: Template/ItemsTags/add.ctp:9
+#: Template/ItemsTags/edit.ctp:9
+#: Template/ItemsTags/index.ctp:9
+#: Template/ItemsTags/index.ctp:24
+#: Template/ItemsTags/view.ctp:9
+#: Template/Observations/add.ctp:9
+#: Template/Observations/edit.ctp:9
+#: Template/Observations/index.ctp:9
+#: Template/Observations/index.ctp:25
+#: Template/Observations/view.ctp:9
+#: Template/Role/add.ctp:9
+#: Template/Role/edit.ctp:9
+#: Template/Role/index.ctp:9
+#: Template/Role/index.ctp:20
+#: Template/Role/view.ctp:9
+#: Template/Tags/add.ctp:9
+#: Template/Tags/edit.ctp:9
+#: Template/Tags/index.ctp:9
+#: Template/Tags/index.ctp:24
+#: Template/Tags/view.ctp:9
+#: Template/Tags/view.ctp:52
+#: Template/Users/add.ctp:9
+#: Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:9
+#: Template/Users/index.ctp:26
+#: Template/Users/view.ctp:9
+#: Template/Users/view.ctp:60
+msgid "Actions"
+msgstr "Actions"
+
+#: Template/Files/add.ctp:10
+#: Template/Files/edit.ctp:16
+#: Template/Files/view.ctp:12
+#: Template/Items/add.ctp:15
+#: Template/Items/edit.ctp:21
+#: Template/Items/index.ctp:15
+#: Template/Items/view.ctp:18
+#: Template/ItemsFiles/add.ctp:13
+#: Template/ItemsFiles/edit.ctp:19
+#: Template/ItemsFiles/index.ctp:13
+#: Template/ItemsFiles/view.ctp:16
+msgid "List Files"
+msgstr "Liste des fichiers"
+
+#: Template/Files/add.ctp:11
+#: Template/Files/edit.ctp:17
+#: Template/Files/index.ctp:11
+#: Template/Files/view.ctp:14
+#: Template/Items/add.ctp:10
+#: Template/Items/edit.ctp:16
+#: Template/Items/view.ctp:12
+#: Template/ItemsFiles/add.ctp:11
+#: Template/ItemsFiles/edit.ctp:17
+#: Template/ItemsFiles/index.ctp:11
+#: Template/ItemsFiles/view.ctp:14
+#: Template/ItemsTags/add.ctp:11
+#: Template/ItemsTags/edit.ctp:17
+#: Template/ItemsTags/index.ctp:11
+#: Template/ItemsTags/view.ctp:14
+#: Template/Observations/add.ctp:11
+#: Template/Observations/edit.ctp:17
+#: Template/Observations/index.ctp:11
+#: Template/Observations/view.ctp:14
+#: Template/Tags/add.ctp:11
+#: Template/Tags/edit.ctp:17
+#: Template/Tags/index.ctp:11
+#: Template/Tags/view.ctp:14
+#: Template/Users/add.ctp:11
+#: Template/Users/edit.ctp:17
+#: Template/Users/index.ctp:11
+#: Template/Users/view.ctp:14
+msgid "List Items"
+msgstr "Articles de liste"
+
+#: Template/Files/add.ctp:12
+#: Template/Files/edit.ctp:18
+#: Template/Files/index.ctp:12
+#: Template/Files/view.ctp:15
+#: Template/Items/index.ctp:10
+#: Template/Items/view.ctp:13
+#: Template/ItemsFiles/add.ctp:12
+#: Template/ItemsFiles/edit.ctp:18
+#: Template/ItemsFiles/index.ctp:12
+#: Template/ItemsFiles/view.ctp:15
+#: Template/ItemsTags/add.ctp:12
+#: Template/ItemsTags/edit.ctp:18
+#: Template/ItemsTags/index.ctp:12
+#: Template/ItemsTags/view.ctp:15
+#: Template/Observations/add.ctp:12
+#: Template/Observations/edit.ctp:18
+#: Template/Observations/index.ctp:12
+#: Template/Observations/view.ctp:15
+#: Template/Tags/add.ctp:12
+#: Template/Tags/edit.ctp:18
+#: Template/Tags/index.ctp:12
+#: Template/Tags/view.ctp:15
+#: Template/Users/add.ctp:12
+#: Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:12
+#: Template/Users/view.ctp:15
+msgid "New Item"
+msgstr "Nouvel article"
+
+#: Template/Files/add.ctp:18
+msgid "Add File"
+msgstr "Ajouter le fichier"
+
+#: Template/Files/add.ctp:27
+#: Template/Files/edit.ctp:33
+#: Template/I18n/add.ctp:25
+#: Template/I18n/edit.ctp:31
+#: Template/Items/add.ctp:36
+#: Template/Items/edit.ctp:42
+#: Template/ItemsFiles/add.ctp:26
+#: Template/ItemsFiles/edit.ctp:32
+#: Template/ItemsTags/add.ctp:24
+#: Template/ItemsTags/edit.ctp:30
+#: Template/Observations/add.ctp:25
+#: Template/Observations/edit.ctp:31
+#: Template/Role/add.ctp:21
+#: Template/Role/edit.ctp:27
+#: Template/Tags/add.ctp:24
+#: Template/Tags/edit.ctp:30
+#: Template/Users/add.ctp:25
+#: Template/Users/edit.ctp:31
+msgid "Submit"
+msgstr "Soumettre"
+
+#: Template/Files/edit.ctp:11
+#: Template/Files/index.ctp:52
+#: Template/Files/view.ctp:76
+#: Template/I18n/edit.ctp:11
+#: Template/I18n/index.ctp:37
+#: Template/Items/edit.ctp:11
+#: Template/Items/index.ctp:51
+#: Template/Items/view.ctp:88
+#: Template/Items/view.ctp:115
+#: Template/Items/view.ctp:146
+#: Template/ItemsFiles/edit.ctp:11
+#: Template/ItemsFiles/index.ctp:37
+#: Template/ItemsTags/edit.ctp:11
+#: Template/ItemsTags/index.ctp:35
+#: Template/Observations/edit.ctp:11
+#: Template/Observations/index.ctp:39
+#: Template/Role/edit.ctp:11
+#: Template/Role/index.ctp:31
+#: Template/Tags/edit.ctp:11
+#: Template/Tags/index.ctp:37
+#: Template/Tags/view.ctp:68
+#: Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:41
+#: Template/Users/view.ctp:76
+msgid "Delete"
+msgstr "Effacer"
+
+#: Template/Files/edit.ctp:13
+#: Template/Files/index.ctp:52
+#: Template/Files/view.ctp:11
+#: Template/Files/view.ctp:76
+#: Template/I18n/edit.ctp:13
+#: Template/I18n/index.ctp:37
+#: Template/I18n/view.ctp:11
+#: Template/Items/edit.ctp:13
+#: Template/Items/index.ctp:51
+#: Template/Items/view.ctp:11
+#: Template/Items/view.ctp:88
+#: Template/Items/view.ctp:115
+#: Template/Items/view.ctp:146
+#: Template/ItemsFiles/edit.ctp:13
+#: Template/ItemsFiles/index.ctp:37
+#: Template/ItemsFiles/view.ctp:11
+#: Template/ItemsTags/edit.ctp:13
+#: Template/ItemsTags/index.ctp:35
+#: Template/ItemsTags/view.ctp:11
+#: Template/Observations/edit.ctp:13
+#: Template/Observations/index.ctp:39
+#: Template/Observations/view.ctp:11
+#: Template/Role/edit.ctp:13
+#: Template/Role/index.ctp:31
+#: Template/Role/view.ctp:11
+#: Template/Tags/edit.ctp:13
+#: Template/Tags/index.ctp:37
+#: Template/Tags/view.ctp:11
+#: Template/Tags/view.ctp:68
+#: Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:41
+#: Template/Users/view.ctp:11
+#: Template/Users/view.ctp:76
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Êtes-vous sûr de vouloir supprimer # {0} ?"
+
+#: Template/Files/edit.ctp:24
+#: Template/Files/view.ctp:10
+msgid "Edit File"
+msgstr "Editer le fichier"
+
+#: Template/Files/index.ctp:10
+#: Template/Files/view.ctp:13
+#: Template/Items/add.ctp:16
+#: Template/Items/edit.ctp:22
+#: Template/Items/index.ctp:16
+#: Template/Items/view.ctp:19
+#: Template/ItemsFiles/add.ctp:14
+#: Template/ItemsFiles/edit.ctp:20
+#: Template/ItemsFiles/index.ctp:14
+#: Template/ItemsFiles/view.ctp:17
+msgid "New File"
+msgstr "Nouveau fichier"
+
+#: Template/Files/index.ctp:16
+msgid "Files"
+msgstr "Des dossiers"
+
+#: Template/Files/index.ctp:21
+msgid "Preview"
+msgstr "Aperçu"
+
+#: Template/Files/index.ctp:50
+#: Template/Files/view.ctp:74
+#: Template/I18n/index.ctp:35
+#: Template/Items/index.ctp:49
+#: Template/Items/view.ctp:86
+#: Template/Items/view.ctp:113
+#: Template/Items/view.ctp:144
+#: Template/ItemsFiles/index.ctp:35
+#: Template/ItemsTags/index.ctp:33
+#: Template/Observations/index.ctp:37
+#: Template/Role/index.ctp:29
+#: Template/Tags/index.ctp:35
+#: Template/Tags/view.ctp:66
+#: Template/Users/index.ctp:39
+#: Template/Users/view.ctp:74
+msgid "View"
+msgstr "Vue"
+
+#: Template/Files/index.ctp:51
+#: Template/Files/view.ctp:75
+#: Template/I18n/index.ctp:36
+#: Template/Items/index.ctp:50
+#: Template/Items/view.ctp:87
+#: Template/Items/view.ctp:114
+#: Template/Items/view.ctp:145
+#: Template/ItemsFiles/index.ctp:36
+#: Template/ItemsTags/index.ctp:34
+#: Template/Observations/index.ctp:38
+#: Template/Role/index.ctp:30
+#: Template/Tags/index.ctp:36
+#: Template/Tags/view.ctp:67
+#: Template/Users/index.ctp:40
+#: Template/Users/view.ctp:75
+msgid "Edit"
+msgstr "Modifier"
+
+#: Template/Files/index.ctp:60
+#: Template/I18n/index.ctp:45
+#: Template/Items/index.ctp:59
+#: Template/ItemsFiles/index.ctp:45
+#: Template/ItemsTags/index.ctp:43
+#: Template/Observations/index.ctp:47
+#: Template/Role/index.ctp:39
+#: Template/Tags/index.ctp:45
+#: Template/Users/index.ctp:49
+msgid "first"
+msgstr "première"
+
+#: Template/Files/index.ctp:61
+#: Template/I18n/index.ctp:46
+#: Template/Items/index.ctp:60
+#: Template/ItemsFiles/index.ctp:46
+#: Template/ItemsTags/index.ctp:44
+#: Template/Observations/index.ctp:48
+#: Template/Role/index.ctp:40
+#: Template/Tags/index.ctp:46
+#: Template/Users/index.ctp:50
+msgid "previous"
+msgstr "précédent"
+
+#: Template/Files/index.ctp:63
+#: Template/I18n/index.ctp:48
+#: Template/Items/index.ctp:62
+#: Template/ItemsFiles/index.ctp:48
+#: Template/ItemsTags/index.ctp:46
+#: Template/Observations/index.ctp:50
+#: Template/Role/index.ctp:42
+#: Template/Tags/index.ctp:48
+#: Template/Users/index.ctp:52
+msgid "next"
+msgstr "suivant"
+
+#: Template/Files/index.ctp:64
+#: Template/I18n/index.ctp:49
+#: Template/Items/index.ctp:63
+#: Template/ItemsFiles/index.ctp:49
+#: Template/ItemsTags/index.ctp:47
+#: Template/Observations/index.ctp:51
+#: Template/Role/index.ctp:43
+#: Template/Tags/index.ctp:49
+#: Template/Users/index.ctp:53
+msgid "last"
+msgstr "dernier"
+
+#: Template/Files/index.ctp:66
+#: Template/I18n/index.ctp:51
+#: Template/Items/index.ctp:65
+#: Template/ItemsFiles/index.ctp:51
+#: Template/ItemsTags/index.ctp:49
+#: Template/Observations/index.ctp:53
+#: Template/Role/index.ctp:45
+#: Template/Tags/index.ctp:51
+#: Template/Users/index.ctp:55
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Page {{page}} sur {{pages}}, affichant le {{courant}} enregistrement (s) sur le {{nombre}} total"
+
+#: Template/Files/view.ctp:11
+msgid "Delete File"
+msgstr "Supprimer le fichier"
+
+#: Template/Files/view.ctp:22
+#: Template/Files/view.ctp:53
+#: Template/Items/view.ctp:32
+#: Template/Items/view.ctp:70
+#: Template/Role/view.ctp:20
+#: Template/Tags/view.ctp:45
+#: Template/Users/view.ctp:53
+msgid "Name"
+msgstr "Nom"
+
+#: Template/Files/view.ctp:26
+#: Template/Items/view.ctp:71
+msgid "Path"
+msgstr "Chemin"
+
+#: Template/Files/view.ctp:30
+#: Template/Files/view.ctp:51
+#: Template/I18n/view.ctp:32
+#: Template/Items/view.ctp:40
+#: Template/Items/view.ctp:69
+#: Template/Items/view.ctp:100
+#: Template/Items/view.ctp:127
+#: Template/ItemsFiles/view.ctp:28
+#: Template/Observations/view.ctp:30
+#: Template/Role/view.ctp:24
+#: Template/Tags/view.ctp:26
+#: Template/Tags/view.ctp:43
+#: Template/Users/view.ctp:30
+#: Template/Users/view.ctp:51
+msgid "Id"
+msgstr "Id"
+
+#: Template/Files/view.ctp:34
+#: Template/Files/view.ctp:58
+#: Template/Items/view.ctp:48
+#: Template/Items/view.ctp:72
+#: Template/Items/view.ctp:102
+#: Template/Items/view.ctp:131
+#: Template/Observations/view.ctp:34
+#: Template/Tags/view.ctp:30
+#: Template/Tags/view.ctp:50
+#: Template/Users/view.ctp:38
+#: Template/Users/view.ctp:58
+msgid "Created"
+msgstr "Établi"
+
+#: Template/Files/view.ctp:38
+#: Template/Files/view.ctp:59
+#: Template/Items/view.ctp:52
+#: Template/Items/view.ctp:73
+#: Template/Items/view.ctp:103
+#: Template/Items/view.ctp:132
+#: Template/Observations/view.ctp:38
+#: Template/Tags/view.ctp:34
+#: Template/Tags/view.ctp:51
+#: Template/Users/view.ctp:42
+#: Template/Users/view.ctp:59
+msgid "Modified"
+msgstr "Modifié"
+
+#: Template/Files/view.ctp:42
+#: Template/Items/view.ctp:74
+msgid "Status"
+msgstr "Statut"
+
+#: Template/Files/view.ctp:43
+#: Template/Items/index.ctp:45
+#: Template/Items/view.ctp:57
+msgid "Yes"
+msgstr "Oui"
+
+#: Template/Files/view.ctp:43
+#: Template/Items/index.ctp:45
+#: Template/Items/view.ctp:57
+msgid "No"
+msgstr "Non"
+
+#: Template/Files/view.ctp:47
+#: Template/Tags/view.ctp:39
+#: Template/Users/view.ctp:47
+msgid "Related Items"
+msgstr "Articles connexes"
+
+#: Template/Files/view.ctp:52
+#: Template/Tags/view.ctp:44
+#: Template/Users/view.ctp:52
+msgid "User Id"
+msgstr "Identifiant d'utilisateur"
+
+#: Template/Files/view.ctp:54
+#: Template/Items/view.ctp:44
+#: Template/Tags/view.ctp:46
+#: Template/Users/view.ctp:54
+msgid "Cost"
+msgstr "Coût"
+
+#: Template/Files/view.ctp:55
+#: Template/Items/view.ctp:36
+#: Template/Tags/view.ctp:47
+#: Template/Users/view.ctp:55
+msgid "Slug"
+msgstr "Limace"
+
+#: Template/Files/view.ctp:56
+#: Template/Items/view.ctp:61
+#: Template/Tags/view.ctp:48
+#: Template/Users/view.ctp:56
+msgid "Description"
+msgstr "La description"
+
+#: Template/Files/view.ctp:57
+#: Template/Items/view.ctp:56
+#: Template/Tags/view.ctp:49
+#: Template/Users/view.ctp:57
+msgid "Published"
+msgstr "Publié"
+
+#: Template/I18n/add.ctp:10
+#: Template/I18n/edit.ctp:16
+#: Template/I18n/view.ctp:12
+msgid "List I18n"
+msgstr "Liste I18n"
+
+#: Template/I18n/add.ctp:16
+msgid "Add I18n"
+msgstr "Ajouter I18n"
+
+#: Template/I18n/edit.ctp:22
+#: Template/I18n/view.ctp:10
+msgid "Edit I18n"
+msgstr "Modifier I18n"
+
+#: Template/I18n/index.ctp:10
+#: Template/I18n/view.ctp:13
+msgid "New I18n"
+msgstr "Nouveau I18n"
+
+#: Template/I18n/index.ctp:14
+msgid "I18n"
+msgstr "I18n"
+
+#: Template/I18n/view.ctp:11
+msgid "Delete I18n"
+msgstr "Supprimer I18n"
+
+#: Template/I18n/view.ctp:20
+msgid "Locale"
+msgstr "Lieu"
+
+#: Template/I18n/view.ctp:24
+msgid "Model"
+msgstr "Modèle"
+
+#: Template/I18n/view.ctp:28
+msgid "Field"
+msgstr "Champ"
+
+#: Template/I18n/view.ctp:36
+msgid "Foreign Key"
+msgstr "Clé étrangère"
+
+#: Template/I18n/view.ctp:41
+msgid "Content"
+msgstr "Contenu"
+
+#: Template/Items/add.ctp:11
+#: Template/Items/edit.ctp:17
+#: Template/Items/index.ctp:11
+#: Template/Items/view.ctp:14
+#: Template/Users/add.ctp:10
+#: Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr "Liste des utilisateurs"
+
+#: Template/Items/add.ctp:12
+#: Template/Items/edit.ctp:18
+#: Template/Items/index.ctp:12
+#: Template/Items/view.ctp:15
+#: Template/Users/index.ctp:10
+#: Template/Users/view.ctp:13
+msgid "New User"
+msgstr "Nouvel utilisateur"
+
+#: Template/Items/add.ctp:13
+#: Template/Items/edit.ctp:19
+#: Template/Items/index.ctp:13
+#: Template/Items/view.ctp:16
+#: Template/Observations/add.ctp:10
+#: Template/Observations/edit.ctp:16
+#: Template/Observations/view.ctp:12
+msgid "List Observations"
+msgstr "Liste des observations"
+
+#: Template/Items/add.ctp:14
+#: Template/Items/edit.ctp:20
+#: Template/Items/index.ctp:14
+#: Template/Items/view.ctp:17
+#: Template/Observations/index.ctp:10
+#: Template/Observations/view.ctp:13
+msgid "New Observation"
+msgstr "Nouvelle observation"
+
+#: Template/Items/add.ctp:17
+#: Template/Items/edit.ctp:23
+#: Template/Items/index.ctp:17
+#: Template/Items/view.ctp:20
+#: Template/ItemsTags/add.ctp:13
+#: Template/ItemsTags/edit.ctp:19
+#: Template/ItemsTags/index.ctp:13
+#: Template/ItemsTags/view.ctp:16
+#: Template/Tags/add.ctp:10
+#: Template/Tags/edit.ctp:16
+#: Template/Tags/view.ctp:12
+msgid "List Tags"
+msgstr "Liste des balises"
+
+#: Template/Items/add.ctp:18
+#: Template/Items/edit.ctp:24
+#: Template/Items/index.ctp:18
+#: Template/Items/view.ctp:21
+#: Template/ItemsTags/add.ctp:14
+#: Template/ItemsTags/edit.ctp:20
+#: Template/ItemsTags/index.ctp:14
+#: Template/ItemsTags/view.ctp:17
+#: Template/Tags/index.ctp:10
+#: Template/Tags/view.ctp:13
+msgid "New Tag"
+msgstr "Nouvelle étiquette"
+
+#: Template/Items/add.ctp:24
+msgid "Add Item"
+msgstr "Ajouter un item"
+
+#: Template/Items/edit.ctp:30
+#: Template/Items/view.ctp:10
+msgid "Edit Item"
+msgstr "Modifier l'article"
+
+#: Template/Items/index.ctp:22
+msgid "Items"
+msgstr "Articles"
+
+#: Template/Items/view.ctp:11
+msgid "Delete Item"
+msgstr "Effacer l'article"
+
+#: Template/Items/view.ctp:28
+msgid "User"
+msgstr "Utilisateur"
+
+#: Template/Items/view.ctp:65
+msgid "Related Files"
+msgstr "Fichiers connexes"
+
+#: Template/Items/view.ctp:96
+msgid "Related Tags"
+msgstr "Tags associés"
+
+#: Template/Items/view.ctp:101
+#: Template/Items/view.ctp:129
+#: Template/Observations/view.ctp:26
+#: Template/Tags/view.ctp:22
+msgid "Title"
+msgstr "Titre"
+
+#: Template/Items/view.ctp:123
+msgid "Related Observations"
+msgstr "Observations connexes"
+
+#: Template/Items/view.ctp:128
+#: Template/ItemsFiles/view.ctp:32
+msgid "Item Id"
+msgstr "ID de l'article"
+
+#: Template/Items/view.ctp:130
+#: Template/Observations/view.ctp:43
+msgid "Observation"
+msgstr "Observation"
+
+#: Template/ItemsFiles/add.ctp:10
+#: Template/ItemsFiles/edit.ctp:16
+#: Template/ItemsFiles/view.ctp:12
+msgid "List Items Files"
+msgstr "Liste des fichiers"
+
+#: Template/ItemsFiles/add.ctp:20
+msgid "Add Items File"
+msgstr "Ajouter un fichier"
+
+#: Template/ItemsFiles/edit.ctp:26
+#: Template/ItemsFiles/view.ctp:10
+msgid "Edit Items File"
+msgstr "Modifier le fichier d'éléments"
+
+#: Template/ItemsFiles/index.ctp:10
+#: Template/ItemsFiles/view.ctp:13
+msgid "New Items File"
+msgstr "Nouveau fichier d'articles"
+
+#: Template/ItemsFiles/index.ctp:18
+msgid "Items Files"
+msgstr "Articles Fichiers"
+
+#: Template/ItemsFiles/view.ctp:11
+msgid "Delete Items File"
+msgstr "Supprimer le fichier d'éléments"
+
+#: Template/ItemsFiles/view.ctp:24
+msgid "File"
+msgstr "Fichier"
+
+#: Template/ItemsTags/add.ctp:10
+#: Template/ItemsTags/edit.ctp:16
+#: Template/ItemsTags/view.ctp:12
+msgid "List Items Tags"
+msgstr "Liste des éléments"
+
+#: Template/ItemsTags/add.ctp:20
+msgid "Add Items Tag"
+msgstr "Ajouter une étiquette"
+
+#: Template/ItemsTags/edit.ctp:26
+#: Template/ItemsTags/view.ctp:10
+msgid "Edit Items Tag"
+msgstr "Modifier les éléments"
+
+#: Template/ItemsTags/index.ctp:10
+#: Template/ItemsTags/view.ctp:13
+msgid "New Items Tag"
+msgstr "Nouvelle balise"
+
+#: Template/ItemsTags/index.ctp:18
+msgid "Items Tags"
+msgstr "Articles Tags"
+
+#: Template/ItemsTags/view.ctp:11
+msgid "Delete Items Tag"
+msgstr "Supprimer les éléments"
+
+#: Template/ItemsTags/view.ctp:24
+#: Template/Observations/view.ctp:22
+msgid "Item"
+msgstr "Article"
+
+#: Template/ItemsTags/view.ctp:28
+msgid "Tag"
+msgstr "Étiquette"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Erreur"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Retour"
+
+#: Template/Observations/add.ctp:18
+msgid "Add Observation"
+msgstr "Ajouter une observation"
+
+#: Template/Observations/edit.ctp:24
+#: Template/Observations/view.ctp:10
+msgid "Edit Observation"
+msgstr "Modifier l'observation"
+
+#: Template/Observations/index.ctp:16
+msgid "Observations"
+msgstr "Observations"
+
+#: Template/Observations/view.ctp:11
+msgid "Delete Observation"
+msgstr "Supprimer l'observation"
+
+#: Template/Role/add.ctp:10
+#: Template/Role/edit.ctp:16
+#: Template/Role/view.ctp:12
+msgid "List Role"
+msgstr "Rôle de liste"
+
+#: Template/Role/add.ctp:16
+msgid "Add Role"
+msgstr "Ajouter un rôle"
+
+#: Template/Role/edit.ctp:22
+#: Template/Role/view.ctp:10
+msgid "Edit Role"
+msgstr "Modifier le rôle"
+
+#: Template/Role/index.ctp:10
+#: Template/Role/view.ctp:13
+msgid "New Role"
+msgstr "Nouveau rôle"
+
+#: Template/Role/index.ctp:14
+msgid "Role"
+msgstr "Rôle"
+
+#: Template/Role/view.ctp:11
+msgid "Delete Role"
+msgstr "Supprimer le rôle"
+
+#: Template/Tags/add.ctp:18
+msgid "Add Tag"
+msgstr "Ajouter une étiquette"
+
+#: Template/Tags/edit.ctp:24
+#: Template/Tags/view.ctp:10
+msgid "Edit Tag"
+msgstr "Modifier la balise"
+
+#: Template/Tags/index.ctp:16
+msgid "Tags"
+msgstr "Mots clés"
+
+#: Template/Tags/view.ctp:11
+msgid "Delete Tag"
+msgstr "Supprimer la balise"
+
+#: Template/Users/add.ctp:18
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+#: Template/Users/edit.ctp:24
+#: Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr "Modifier l'utilisateur"
+
+#: Template/Users/index.ctp:16
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr "Supprimer l'utilisateur"
+
+#: Template/Users/view.ctp:22
+msgid "Email"
+msgstr "Email"
+
+#: Template/Users/view.ctp:26
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Template/Users/view.ctp:34
+msgid "Id Role"
+msgstr "Rôle Id"
+
